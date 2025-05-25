@@ -23,3 +23,9 @@ CREATE TABLE sightings(
     sighting_time TIMESTAMP NOT NULL,
     notes TEXT
 );
+
+--Rangers table data insert
+INSERT INTO rangers (name, region) VALUES
+('Alice Green', 'Northern Hills'),
+('Bob White', 'River Delta'),
+('Carol King', 'Mountain Range');

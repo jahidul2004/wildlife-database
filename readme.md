@@ -1,4 +1,4 @@
-# 📘 PostgreSQL Interview Questions (বাংলায়)
+# 📘 PostgreSQL Interview Questions
 
 ---
 
